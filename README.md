@@ -11,17 +11,17 @@
     - **R분석**
         - 주문일자 2022 / 2021 / 2020~2019 3분류로 나누어 각 3점, 2점, 1점을 부여하여 계산
         
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/455459bb-3a46-447e-bfee-e53397ae9bee/daa0def0-9a59-4793-b912-625aa2e313f8/Untitled.png)
+        ![image](https://github.com/Tongsil/RFM_analysis/assets/139235928/91e412b8-839a-4332-aff4-b6b1215f936d)
         
     - **F분석**
         - 주문량 100이상 / 50 이상 / 50 미만 3분류로 나누어 각 3점, 2점, 1점을 부여하여 계산
         
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/455459bb-3a46-447e-bfee-e53397ae9bee/e48ed9e0-3733-47d0-a648-a99204ad1e7c/Untitled.png)
+        ![image](https://github.com/Tongsil/RFM_analysis/assets/139235928/4aeeec51-62b7-4e47-b3b4-6b2bc9379af4)
         
     - **M분석**
         - 지출금액 분포 75% 이상 / 50% 이상 / 50% 미만 3분류로 나누어 각 3점, 2점, 1점을 부여하여 계산
         
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/455459bb-3a46-447e-bfee-e53397ae9bee/af50e2dd-579c-448e-933b-72414778ce8c/Untitled.png)
+        ![image](https://github.com/Tongsil/RFM_analysis/assets/139235928/946bd1ea-17af-46aa-a1fe-10577f51b07c)
         
 
 - 월별, 연도별 매출 현황 그래프와 결제방법 그래프 분석
@@ -29,12 +29,12 @@
         - 2월달 – 신학기 시작 직전이 매출이 가장 높고 차례로 5월, 7월 순으로 높게 기록된다.
         - 2019년에서 2021까지 꾸준히 매출이 증가하다 2022년에 하락세를 보인다.
         
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/455459bb-3a46-447e-bfee-e53397ae9bee/986f8203-c89d-4796-b8c9-9fd550c2c5bb/Untitled.png)
+        ![image](https://github.com/Tongsil/RFM_analysis/assets/139235928/c36ba86c-1243-4af6-a398-a2baa7e0dfac)
         
     - 결제방법 그래프
         - 후불, 정기결제, 가상계좌, 신용카드, 현금간편결제 순으로 결제금액이 큰것을 나타내고, 나머지 결제방법은 결제금액의 크기가 미미하다.
         
-        ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/455459bb-3a46-447e-bfee-e53397ae9bee/be54bc9e-bf12-4968-bbe3-4a734846a315/Untitled.png)
+        ![image](https://github.com/Tongsil/RFM_analysis/assets/139235928/7f426cb1-ade6-4935-b9a5-3247d1e86a60)
         
 
 ## 종합
